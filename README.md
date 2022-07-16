@@ -1,2 +1,2 @@
 # Cleaner
-Cleaner for Deepin
+Use Issues Tab to post your issue with Cleaner for Deepin
